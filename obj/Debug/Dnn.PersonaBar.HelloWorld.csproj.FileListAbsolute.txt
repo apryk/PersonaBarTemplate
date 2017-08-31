@@ -1,0 +1,7 @@
+C:\development\react\PersonaBarTemplate\bin\Dnn.PersonaBar.HelloWorld.xml
+C:\development\react\PersonaBarTemplate\bin\Dnn.PersonaBar.HelloWorld.dll
+C:\development\react\PersonaBarTemplate\bin\Dnn.PersonaBar.HelloWorld.pdb
+C:\development\react\PersonaBarTemplate\obj\Debug\Dnn.PersonaBar.HelloWorld.csprojResolveAssemblyReference.cache
+C:\development\react\PersonaBarTemplate\obj\Debug\Dnn.PersonaBar.HelloWorld.csproj.CoreCompileInputs.cache
+C:\development\react\PersonaBarTemplate\obj\Debug\Dnn.PersonaBar.HelloWorld.dll
+C:\development\react\PersonaBarTemplate\obj\Debug\Dnn.PersonaBar.HelloWorld.pdb
